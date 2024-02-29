@@ -1,0 +1,19 @@
+body{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 1.25rem;
+}
+
+input, button{
+    background-color: black;
+    color: aliceblue;
+}
+
+button:hover{
+    background-color: aquamarine;
+    color: black;
+}
+
+button{
+    cursor: pointer;
+}
