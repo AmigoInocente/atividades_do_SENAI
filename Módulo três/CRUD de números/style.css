@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-color: blanchedalmond;
+    color: black;
+    font-size: 1.25rem;
+    font-family: Arial;
+    margin-left: 16px;
+    padding: 8px;
+}
+
+input, button{
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    border-radius: 8px;
+    margin-left: 8px;
+    padding: 4px;
+}
+
+input::placeholder{
+    color: gray;
+}
+
+button:hover{
+    background-color: rgb(12, 12, 78);
+    
+}        
